@@ -1,0 +1,17 @@
+name: "A cool user story"
+description: |
+  a cool descripion in monospace becasue it is miportant
+
+    * so we
+    * can use
+    * some md
+
+  ok?
+tags: ["important", "git"]
+tasks:
+  - name: "create a projcet"
+    description: "creat the project and fill it with stuff"
+    status: "done"
+  - name: "add a thing to the project"
+    description: "add a thing so the projcet doesnt look so empty"
+    status: "in progress"

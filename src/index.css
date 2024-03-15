@@ -1,0 +1,9 @@
+:root {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+
+  --bg-color: #eef;
+  --monospace-font: "Source Code Pro", monospace;
+}
